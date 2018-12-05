@@ -11,7 +11,9 @@ public class Ejercicio2 {
 	 * contenga los mismos caracteres que ésta y en el mismo orden. 
 	 */
 	
-	public static ...
+	public static void main(String[] args) {
+		
+	}
 	
 	
 	/*
@@ -21,7 +23,7 @@ public class Ejercicio2 {
 	 * el método 'stringToArray' mostrando por pantalla el resultado de su ejecución. 
 	 */
 	
-	public static void main(String[] args) {
+	public static void main1(String[] args) {
 		
 
 	}

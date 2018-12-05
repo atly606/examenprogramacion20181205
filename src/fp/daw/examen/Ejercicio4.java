@@ -12,8 +12,13 @@ public class Ejercicio4 {
 	 * Finalmente retornará el array.
 	 */
 	
-	public static ...
-	
+	public static void main1(String[] args) {
+		
+	int[] numeros = new int[0];
+	numeros[0] = 975;
+	numeros[1] = 13579;
+	string.
+	}
 	/*
 	 * 0,25 puntos
 	 * 

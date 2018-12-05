@@ -13,8 +13,10 @@ public class Ejercicio1 {
 	 * uso de variables booleanas.
 	 */
 	
-	public static ...
-	
+	public static void main(String[] args) {
+		
+	}
+
 	/*
 	 * 0,25 puntos
 	 * 
@@ -22,8 +24,8 @@ public class Ejercicio1 {
 	 * el método 'contiene' mostrando por pantalla el resultado de su ejecución. 
 	 */
 	
-	public static void main(String[] args) {
-		
+	public static void main1(String[] args) {
+		System.out.println("");
 
 	}
 
